@@ -7,3 +7,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   <a href="https://www.linkedin.com/in/arsyid-aldi-pratama-382750138/">View My LinkedIn Profile</a> 
 theme: jekyll-theme-minimal
+
+footer .owner {
+  display: none;
+}
