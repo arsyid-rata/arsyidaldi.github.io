@@ -1,1 +1,4 @@
-# arsyidaldi.github.io
+# Data Analyst
+
+###Education
+Mechanical Engineering
