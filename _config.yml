@@ -1,6 +1,9 @@
-title: Arsyid Aldi pratama
+title: Arsyid Aldi Pratama
 logo: /images/Arsyid_Aldi_Pratama__Business_CIRCLE-min.png
-description: Experienced in Business and Data Analyst with 4+ years of experience  in analyzing business processes, evaluating opportunities, and delivering actionable insights. Adept at data modeling, data analysis, and strategic planning, with a proven ability to streamline operations and enhance decision-making. Expertise including gathering, data visualisation, process improvement, and problem-solving .Proactive, adaptable, and motivated to drive business growth in dynamic environments.
-#show_downloads: true
-
+description: > # your text below (remove <br> elements if you don't need line breaks)
+  Experienced in Business and Data Analyst with 4+ years of experience  in analyzing business processes, evaluating opportunities, and delivering actionable insights 
+  <br><br>
+  Currently work in PT. Rupa Aestetika Teknologi Aktual as a Operation Excellence Data Analyst
+  <br><br>
+  <a href="https://www.linkedin.com/in/arsyid-aldi-pratama-382750138/">View My LinkedIn Profile</a> 
 theme: jekyll-theme-minimal
