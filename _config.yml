@@ -1,13 +1,36 @@
-title: Arsyid Aldi Pratama
-logo: /images/Arsyid_Aldi_Pratama__Business_CIRCLE-min.png
-description: > # your text below (remove <br> elements if you don't need line breaks)
-  Experienced in Business and Data Analyst with 4+ years of experience  in analyzing business processes, evaluating opportunities, and delivering actionable insights 
-  <br><br>
-  Currently work in PT. Rupa Aestetika Teknologi Aktual as a Operation Excellence Data Analyst
-  <br><br>
-  <a href="https://www.linkedin.com/in/arsyid-aldi-pratama-382750138/">View My LinkedIn Profile</a> 
-theme: jekyll-theme-minimal
+title: "Arsyid Aldi Pratama"
+logo: "/images/Arsyid_Aldi_Pratama__Business_CIRCLE-min.png"
+description: >
+  Experienced in Business and Data Analyst with 4+ years of experience in analyzing business processes, 
+  evaluating opportunities, and delivering actionable insights.
 
-footer .owner {
-  display: none;
-}
+  Currently work in PT. Rupa Aestetika Teknologi Aktual as an Operation Excellence Data Analyst.
+
+  <a href="https://www.linkedin.com/in/arsyid-aldi-pratama-382750138/">View My LinkedIn Profile</a>
+
+# Tema menggunakan remote_theme agar lebih fleksibel
+remote_theme: pages-themes/minimal@v0.2.0
+
+plugins:
+  - jekyll-remote-theme
+
+# Tambahan konfigurasi umum
+show_downloads: false   # hilangkan tombol "Download"
+google_analytics: ""    # kosongkan agar tidak load script GA dummy
+markdown: kramdown      # parser markdown default
+highlighter: rouge      # syntax highlighting untuk code block
+
+# Metadata tambahan
+author:
+  name: "Arsyid Aldi Pratama"
+  email: "arsyid@example.com"
+  linkedin: "https://www.linkedin.com/in/arsyid-aldi-pratama-382750138/"
+
+# Opsional: navigasi custom (buat file _data/navigation.yml jika perlu)
+# navigation:
+#   - title: "About"
+#     url: /about/
+#   - title: "Projects"
+#     url: /projects/
+#   - title: "Contact"
+#     url: /contact/
