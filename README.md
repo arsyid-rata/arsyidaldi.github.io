@@ -1,4 +1,7 @@
-# Data Analyst
+## Portfolio
+---
+### Business Analyst
 
-### Education
-Mechanical Engineering
+[Sales Acqusition Analysis](/sample_page)
+#### make dashboard to monitoring funnel from leads to acqusition, find potential customers from leads analysis, and convertion to revenue
+
