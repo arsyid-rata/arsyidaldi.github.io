@@ -1,7 +1,6 @@
 ## Portfolio
 ---
-### Business Analyst
 
-[Sales Acqusition Analysis](/sample_page)
-#### make dashboard to monitoring funnel from leads to acqusition, find potential customers from leads analysis, and convertion to revenue
-
+### Sales Acquisition Analysis
+Dashboard to monitor the funnel from leads to acquisition, analyze potential customers from lead data, and measure conversion into revenue.
+<img src="images/Dashboard Sales Leads new_00.png"/>
