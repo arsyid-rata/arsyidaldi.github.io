@@ -12,3 +12,13 @@ lead-to-acquisition funnels, analyze customer potential from lead conversation d
 ![Dashboard](/images/pic.png)
 
 ---
+
+<h2 style="font-family:'Roboto', 'Open Sans', sans-serif; color:#16a085;">Automation Databasebases for Dentalcare Business Analysis A</h2>
+
+<p style="font-family:'Open Sans', Arial, sans-serif; font-size:16px; line-height:1.6; text-align:justify;">
+Designed and implemented <b>data transformation</b> and ETL processes, delivering dashboards to monitor 
+lead-to-acquisition funnels, analyze customer potential from lead conversation data, and track conversion into revenue.
+</p>
+
+![Dashboard](/images/bg_front.png)
+![Dashboard](/images/bg_front.png)
