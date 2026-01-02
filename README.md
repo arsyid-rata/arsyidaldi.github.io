@@ -9,6 +9,6 @@ Designed and implemented <b>data transformation</b> and ETL processes, deliverin
 lead-to-acquisition funnels, analyze customer potential from lead conversation data, and track conversion into revenue.
 </p>
 
-<img src="/images/pic.png" alt="Dashboard" style="border:1px solid #ccc; border-radius:8px;"/>
+![Dashboard](/images/pic.png)
 
 ---
