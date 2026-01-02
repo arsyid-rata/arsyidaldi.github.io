@@ -16,7 +16,7 @@ lead-to-acquisition funnels, analyze customer potential from lead conversation d
 <h2 style="font-family:'Roboto', 'Open Sans', sans-serif; color:#16a085;">Automation Databasebases for Dentalcare </h2>
 
 <p style="font-family:'Open Sans', Arial, sans-serif; font-size:16px; line-height:1.6; text-align:justify;">
-automated data pipelines using Google Cloud Service, performed comprehensive data validated ETL for 
+automated data pipelines using Google Cloud Service,Gform, Github to performed comprehensive data ETL for 
 the dentalcare business analysis
 </p>
 
@@ -24,6 +24,26 @@ the dentalcare business analysis
 ![Dashboard](/images/bg_front.png)
 ![Dashboard](/images/bg_front_real.png)
 
-Successfully automated data pipelines using Google Cloud Service, ensuring 100% availability of critical datasets for 
-the dentalcare business analysis
-Performed comprehensive data validated ETL summary reports
+---
+
+<h2 style="font-family:'Roboto', 'Open Sans', sans-serif; color:#16a085;">Automation Inventory Transaction using Appsheet </h2>
+
+<p style="font-family:'Open Sans', Arial, sans-serif; font-size:16px; line-height:1.6; text-align:justify;">
+Automated inventory transactions using AppSheet to streamline stock movement tracking, reduce manual data entry, and improve data accuracy and operational efficiency.
+</p>
+
+![Dashboard](/images/appsheet.png)
+
+---
+
+<h2 style="font-family:'Roboto', 'Open Sans', sans-serif; color:#16a085;">Automation Data Managment Task</h2>
+
+<p style="font-family:'Open Sans', Arial, sans-serif; font-size:16px; line-height:1.6; text-align:justify;">
+Automated data management tasks using Python to support client feedback on airwaybill transaction data, including over-SLA penalties, refunds, returns, and action reminders.
+</p>
+
+![Dashboard](/images/appsheet.png)
+
+
+
+
