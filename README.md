@@ -42,7 +42,8 @@ Automated inventory transactions using AppSheet to streamline stock movement tra
 Automated data management tasks using Python to support client feedback on airwaybill transaction data, including over-SLA penalties, refunds, returns, and action reminders.
 </p>
 
-![Dashboard](/images/appsheet.png)
+![Dashboard](/images/fb_shopee.png)
+![Dashboard](/images/image.png)
 
 
 
