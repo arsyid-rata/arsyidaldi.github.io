@@ -13,7 +13,7 @@ lead-to-acquisition funnels, analyze customer potential from lead conversation d
 
 ---
 
-<h2 style="font-family:'Roboto', 'Open Sans', sans-serif; color:#16a085;">Automation Databasebases for Dentalcare Business Analysis </h2>
+<h2 style="font-family:'Roboto', 'Open Sans', sans-serif; color:#16a085;">Automation Databasebases for Dentalcare </h2>
 
 <p style="font-family:'Open Sans', Arial, sans-serif; font-size:16px; line-height:1.6; text-align:justify;">
 automated data pipelines using Google Cloud Service, performed comprehensive data validated ETL for 
