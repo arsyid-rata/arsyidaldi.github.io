@@ -29,7 +29,7 @@ the dentalcare business analysis
 <h2 style="font-family:'Roboto', 'Open Sans', sans-serif; color:#16a085;">Automation Inventory Transaction using Appsheet </h2>
 
 <p style="font-family:'Open Sans', Arial, sans-serif; font-size:16px; line-height:1.6; text-align:justify;">
-Automated inventory transactions using AppSheet to streamline stock movement tracking, reduce manual data entry, and improve data accuracy and operational efficiency.
+Automated inventory transactions and material plan based on schedule using AppSheet to streamline stock movement tracking, reduce manual data entry, and improve data accuracy and operational efficiency.
 </p>
 
 ![Dashboard](/images/appsheet.png)
