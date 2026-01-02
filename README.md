@@ -2,7 +2,7 @@
 ---
 
 ### Sales Acquisition Analysis
-Dashboard to monitor the funnel from leads to acquisition, analyze potential customers from lead data, and measure conversion into revenue.
+Designed and implemented data transformation and ETL processes, delivering dashboards to monitor lead-to-acquisition funnels, analyze customer potential from lead conversation data, and track conversion into revenue.
 
 ![Dashboard](/images/pic.png)
 
