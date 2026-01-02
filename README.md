@@ -36,7 +36,7 @@ Automated inventory transactions and material plan based on schedule using AppSh
 
 ---
 
-<h2 style="font-family:'Roboto', 'Open Sans', sans-serif; color:#16a085;">Automation Data Managment Task</h2>
+<h2 style="font-family:'Roboto', 'Open Sans', sans-serif; color:#16a085;">Automation Data Management Task</h2>
 
 <p style="font-family:'Open Sans', Arial, sans-serif; font-size:16px; line-height:1.6; text-align:justify;">
 Automated data management tasks using Python to support client feedback on airwaybill transaction data, including over-SLA penalties, refunds, returns, and action reminders.
