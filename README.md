@@ -6,7 +6,7 @@
 
 <p style="font-family:'Open Sans', Arial, sans-serif; font-size:16px; line-height:1.6; text-align:justify;">
 Designed and implemented data transformation and ETL processes, delivering dashboards to monitor 
-lead-to-acquisition funnels, analyze customer potential from lead conversation data, and track conversion into revenue.
+lead-to-acquisition funnels, analyze customer potential from lead conversation data, and track conversion into revenue using Tableau, Pyhton, Google Big Query
 </p>
 
 ![Dashboard](/images/pic.png)
