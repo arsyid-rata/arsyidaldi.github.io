@@ -6,7 +6,7 @@
 
 <p style="font-family:'Open Sans', Arial, sans-serif; font-size:16px; line-height:1.6; text-align:justify;">
 Designed and implemented data transformation and ETL processes, delivering dashboards to monitor 
-lead-to-acquisition funnels, analyze customer potential from lead conversation data, and track conversion into revenue using Tableau, Pyhton, Google Big Query
+lead-to-acquisition funnels,transformation from unstructure data to analyze customer potential from lead conversation data, potential city, staging churn rate and track conversion into revenue using Tableau, Pyhton, Google Big Query
 </p>
 
 ![Dashboard](/images/pic.png)
@@ -16,7 +16,7 @@ lead-to-acquisition funnels, analyze customer potential from lead conversation d
 <h2 style="font-family:'Roboto', 'Open Sans', sans-serif; color:#16a085;">Automation Databasebases for Dentalcare </h2>
 
 <p style="font-family:'Open Sans', Arial, sans-serif; font-size:16px; line-height:1.6; text-align:justify;">
-automated data pipelines using Google Cloud Service,Gform, Github to performed comprehensive data ETL for 
+Automated data pipelines using Google Cloud Service,Gform, Github to performed comprehensive data ETL for 
 the dentalcare business analysis
 </p>
 
